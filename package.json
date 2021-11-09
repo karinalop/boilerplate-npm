@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Karina Lopez"
+	"author": "Karina Lopez",
+	"description": "A project to learn node.js"
 }
