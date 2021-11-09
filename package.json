@@ -14,5 +14,6 @@
 	"author": "Karina Lopez",
 	"description": "A project to learn node.js",
 	"keywords": ["freecodecamp", "api", "node"],
-	"license": "MIT"
+	"license": "MIT",
+	"version": "1.2.0"
 }
