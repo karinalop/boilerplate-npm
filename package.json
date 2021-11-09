@@ -12,5 +12,6 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "Karina Lopez",
-	"description": "A project to learn node.js"
+	"description": "A project to learn node.js",
+	"keywords": ["freecodecamp", "api", "node"]
 }
